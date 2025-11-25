@@ -12,12 +12,12 @@ const dropdown: Dropdown = new Dropdown(
     new Option('Youth – £??', false, 'youth-??'),
   ],
   'Click the info button "i" for an explanation of terms.',
-  'EXT-D-FEE',
+  'FEE',
   '38.3em',
   null,
   null,
   'set_lcode()',
-  true,
+  false,
   true
 );
 
